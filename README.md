@@ -65,7 +65,9 @@ C:\xampp\htdocs\
 
 ⚠️ Make sure the project folder name is exactly:
 
+```
 medical_record_system
+```
 
 Example folder structure:
 
@@ -132,3 +134,4 @@ Password : admin
 --------------------------------
 
 You may change the login credentials directly from the database for security purposes.
+
